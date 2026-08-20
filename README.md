@@ -21,7 +21,7 @@
 | **09:00** | 🏠 富山退房 | — |
 | **09:30–11:00** | 🐄 初鹿牧場 | 當日第一個主要景點 |
 | 11:00–12:30 | 初鹿 ➔ 關山 | 待補齊🚧 |
-| 12:30–15:00 | 關山、池上 | 關山臭豆腐、痴愛玉、![悟饕便當](https://www.google.com/maps/place/%E6%82%9F%E9%A5%95%E6%B1%A0%E4%B8%8A%E9%A3%AF%E5%8C%85%E6%96%87%E5%8C%96%E6%95%85%E4%BA%8B%E9%A4%A8/@23.0445733,121.1578062,14.5z/data=!4m12!1m5!3m4!2zMjPCsDA3JzI1LjciTiAxMjHCsDEzJzEyLjciRQ!8m2!3d23.1238016!4d121.2202032!3m5!1s0x346f0c8b139b8bb9:0x2a75ac20822c5de8!8m2!3d23.1242563!4d121.2209041!16s%2Fg%2F1hm28h_hq!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D)、![池上飯包](https://www.google.com/maps/place/23%C2%B007'32.8%22N+121%C2%B013'11.4%22E/@23.1257256,121.2197553,21z/data=!4m4!3m3!8m2!3d23.1257645!4d121.2198246!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D) |
+| 12:30–15:00 | 關山、池上 | 關山臭豆腐、痴愛玉、[悟饕便當](https://www.google.com/maps/place/%E6%82%9F%E9%A5%95%E6%B1%A0%E4%B8%8A%E9%A3%AF%E5%8C%85%E6%96%87%E5%8C%96%E6%95%85%E4%BA%8B%E9%A4%A8/@23.0445733,121.1578062,14.5z/data=!4m12!1m5!3m4!2zMjPCsDA3JzI1LjciTiAxMjHCsDEzJzEyLjciRQ!8m2!3d23.1238016!4d121.2202032!3m5!1s0x346f0c8b139b8bb9:0x2a75ac20822c5de8!8m2!3d23.1242563!4d121.2209041!16s%2Fg%2F1hm28h_hq!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D)、[池上飯包](https://www.google.com/maps/place/23%C2%B007'32.8%22N+121%C2%B013'11.4%22E/@23.1257256,121.2197553,21z/data=!4m4!3m3!8m2!3d23.1257645!4d121.2198246!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D) |
 | 16:00–18:30 | 池上 ➔ 花蓮 | 待補齊🚧 |
 | **18:30 左右** | 🏠 放慢三館 Check-in | — |
 | 19:30 之後 | 🍆 花蓮晚餐＋民宿 | 待補齊🚧 |
